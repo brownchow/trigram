@@ -1,0 +1,3 @@
+package trigram
+
+type 
